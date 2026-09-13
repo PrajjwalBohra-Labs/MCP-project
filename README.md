@@ -1,14 +1,5 @@
-
-# MCP Pokémon Interface
-
 The **MCP Pokémon Interface** is a full-stack natural language interface for exploring Pokémon data. Built with a Flask backend and a React frontend, it enables users to get Pokémon info, compare stats, analyze types, generate strategies, and build teams using conversational input.
-
 ---
-
-## 🔧 System Setup and Deployment
-
-### Backend Setup
-
 **Requirements**:
 - Python 3.9+
 - pip
@@ -19,7 +10,6 @@ cd mcp_server
 pip install -r requirements.txt
 python app.py
 ```
-
 This starts the Flask API on `http://localhost:5000`.
 
 ### Frontend Setup
